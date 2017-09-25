@@ -1,0 +1,26 @@
+.reveal section img {
+  box-shadow: none;
+  background-color: transparent;
+ 	border: none;
+}
+
+.reveal .slides {
+  text-align: justify;
+  font-size: 0.8em;
+}
+
+.reveal .slides .source {
+  text-align: right;
+  font-size: 0.3em;
+}
+
+.reveal .slides .smaller {
+  text-align: left;
+  font-size: 0.6em;
+}
+
+.reveal .slides img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
