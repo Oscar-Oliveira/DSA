@@ -1,5 +1,5 @@
-### Symmetric-key algorithms
+# Symmetric-key algorithms
 
-(...) are algorithms for cryptography that use the same cryptographic keys for both encryption of plaintext and decryption of ciphertext.
+_(...) are algorithms for cryptography that use the same cryptographic keys for both encryption of plaintext and decryption of ciphertext._
 
-<div class="source">[Source](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)</div>
+[Source](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)

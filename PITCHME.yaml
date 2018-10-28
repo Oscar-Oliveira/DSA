@@ -1,7 +1,0 @@
-mathjax : TeX-MML-AM_HTMLorMML-full
-mousewheel : false
-slide-number: true
-logo : ./_Assets/images/logo.png
-#vertical-center : false
-#footnote : "© OAO"
-theme-override : ./_Assets/css/PITCHME.css

@@ -17,4 +17,3 @@ def pprint(list_, size=4):
         print(", ".join(str(x) for x in list_[:size]), end="")
         print(", ..., " if len(list_) > (size * 2) else ", ", end="")
         print(", ".join(str(x) for x in list_[-size:]))
-    
